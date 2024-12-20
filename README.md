@@ -1,3 +1,3 @@
 # My Portfolio
 
-Welcome to my portfolio! You can view my website [here].(https://kiruthika09102000.github.io/myportfolio/index.html).
+Welcome to my portfolio! You can view my website [here].(https://kiruthika09102000.github.io/kiruthika-portfolio/index.html).
